@@ -13,11 +13,11 @@
 
   <!-- BADGES / BOTONES SOBRIOS -->
   <p>
-    <a href="https://297studio.com" target="_blank">
-      <img src="https://img.shields.io/badge/WEBSITE-297STUDIO.COM-111111?style=for-the-badge&logo=firefox&logoColor=white" alt="Website" />
+    <a href="https://297.studio" target="_blank">
+      <img src="https://img.shields.io/badge/WEBSITE-297.STUDIO-111111?style=for-the-badge&logo=firefox&logoColor=white" alt="Website" />
     </a>
-    <a href="mailto:297studio@the297.com">
-      <img src="https://img.shields.io/badge/EMAIL-CONTACTO-111111?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <a href="https://linkedin.com/company/297studio" target="_blank">
+      <img src="https://img.shields.io/badge/LINKEDIN-297STUDIO-111111?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
     <a href="https://instagram.com/297.studio" target="_blank">
       <img src="https://img.shields.io/badge/INSTAGRAM-297STUDIO-111111?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
