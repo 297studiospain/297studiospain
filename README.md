@@ -26,47 +26,47 @@
 
   <br />
 
-  <!-- SOBRE EL ESTUDIO -->
+  <!-- ABOUT US -->
   <h2>ABOUT 297STUDIO</h2>
   <p>
-    Somos un <b>Marketing Production Operator (MPO)</b> basado en Madrid. Integramos producción audiovisual de alto nivel con desarrollo de software, diseño interactivo y estrategias de growth marketing.
+    We are a <b>Marketing Production Operator (MPO)</b> based in Madrid. We seamlessly integrate high-end audiovisual production with software development, interactive design, and comprehensive digital marketing strategies.
   </p>
 
   <br />
 
-  <!-- SECCIÓN DE SERVICIOS (HTML + SVG 100% COMPATIBLE SIN CSS COMPLEJO) -->
+  <!-- SERVICES -->
   <h2>SERVICES</h2>
 
   <table border="0" width="100%" style="border-collapse: collapse; background-color: #0D0D0D;">
     <tr>
       <td align="center" width="50%" style="padding: 10px;">
-        <svg width="100%" height="70" viewBox="0 0 350 70" xmlns="http://www.w3.org/2000/svg">
+        <svg width="100%" height="80" viewBox="0 0 350 80" xmlns="http://www.w3.org/2000/svg">
           <rect width="100%" height="100%" rx="6" fill="#141414" stroke="#333333" stroke-width="1" />
-          <text x="50%" y="40%" dominant-baseline="middle" text-anchor="middle" fill="#FFFFFF" font-family="'Segoe UI', sans-serif" font-size="14" font-weight="bold">🎬 Film & Production</text>
-          <text x="50%" y="70%" dominant-baseline="middle" text-anchor="middle" fill="#888888" font-family="'Segoe UI', sans-serif" font-size="10">Plató, rodajes, VFX y edición</text>
+          <text x="50%" y="35%" dominant-baseline="middle" text-anchor="middle" fill="#FFFFFF" font-family="'Segoe UI', sans-serif" font-size="14" font-weight="bold">🎬 Audiovisual Production</text>
+          <text x="50%" y="65%" dominant-baseline="middle" text-anchor="middle" fill="#888888" font-family="'Segoe UI', sans-serif" font-size="10">Scripting, directing, recording, realization & editing</text>
         </svg>
       </td>
       <td align="center" width="50%" style="padding: 10px;">
-        <svg width="100%" height="70" viewBox="0 0 350 70" xmlns="http://www.w3.org/2000/svg">
+        <svg width="100%" height="80" viewBox="0 0 350 80" xmlns="http://www.w3.org/2000/svg">
           <rect width="100%" height="100%" rx="6" fill="#141414" stroke="#333333" stroke-width="1" />
-          <text x="50%" y="40%" dominant-baseline="middle" text-anchor="middle" fill="#FFFFFF" font-family="'Segoe UI', sans-serif" font-size="14" font-weight="bold">🎨 Design & Branding</text>
-          <text x="50%" y="70%" dominant-baseline="middle" text-anchor="middle" fill="#888888" font-family="'Segoe UI', sans-serif" font-size="10">Identidad visual e interfaces UI/UX</text>
+          <text x="50%" y="35%" dominant-baseline="middle" text-anchor="middle" fill="#FFFFFF" font-family="'Segoe UI', sans-serif" font-size="14" font-weight="bold">📈 Digital Marketing & Emailing</text>
+          <text x="50%" y="65%" dominant-baseline="middle" text-anchor="middle" fill="#888888" font-family="'Segoe UI', sans-serif" font-size="10">Campaigns, automation & MPO strategies</text>
         </svg>
       </td>
     </tr>
     <tr>
       <td align="center" width="50%" style="padding: 10px;">
-        <svg width="100%" height="70" viewBox="0 0 350 70" xmlns="http://www.w3.org/2000/svg">
+        <svg width="100%" height="80" viewBox="0 0 350 80" xmlns="http://www.w3.org/2000/svg">
           <rect width="100%" height="100%" rx="6" fill="#141414" stroke="#333333" stroke-width="1" />
-          <text x="50%" y="40%" dominant-baseline="middle" text-anchor="middle" fill="#FFFFFF" font-family="'Segoe UI', sans-serif" font-size="14" font-weight="bold">📊 Growth & MPO</text>
-          <text x="50%" y="70%" dominant-baseline="middle" text-anchor="middle" fill="#888888" font-family="'Segoe UI', sans-serif" font-size="10">Estrategia, campañas y rendimiento</text>
+          <text x="50%" y="35%" dominant-baseline="middle" text-anchor="middle" fill="#FFFFFF" font-family="'Segoe UI', sans-serif" font-size="14" font-weight="bold">🌐 Web Development & CMS</text>
+          <text x="50%" y="65%" dominant-baseline="middle" text-anchor="middle" fill="#888888" font-family="'Segoe UI', sans-serif" font-size="10">WordPress, custom development & optimization</text>
         </svg>
       </td>
       <td align="center" width="50%" style="padding: 10px;">
-        <svg width="100%" height="70" viewBox="0 0 350 70" xmlns="http://www.w3.org/2000/svg">
+        <svg width="100%" height="80" viewBox="0 0 350 80" xmlns="http://www.w3.org/2000/svg">
           <rect width="100%" height="100%" rx="6" fill="#141414" stroke="#333333" stroke-width="1" />
-          <text x="50%" y="40%" dominant-baseline="middle" text-anchor="middle" fill="#FFFFFF" font-family="'Segoe UI', sans-serif" font-size="14" font-weight="bold">💻 Tech & Digital</text>
-          <text x="50%" y="70%" dominant-baseline="middle" text-anchor="middle" fill="#888888" font-family="'Segoe UI', sans-serif" font-size="10">Desarrollo web y plataformas</text>
+          <text x="50%" y="35%" dominant-baseline="middle" text-anchor="middle" fill="#FFFFFF" font-family="'Segoe UI', sans-serif" font-size="14" font-weight="bold">💻 Software & Programming</text>
+          <text x="50%" y="65%" dominant-baseline="middle" text-anchor="middle" fill="#888888" font-family="'Segoe UI', sans-serif" font-size="10">Frontend, backend & code architecture</text>
         </svg>
       </td>
     </tr>
@@ -74,7 +74,7 @@
 
   <br /><br />
 
-  <!-- TECH STACK & TOOLS -->
+  <!-- TECH & CREATIVE STACK -->
   <h2>TECH & CREATIVE STACK</h2>
 
   <p><b>Filmmaking, Directing & Post-Production</b></p>
