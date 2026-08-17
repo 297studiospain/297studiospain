@@ -77,11 +77,28 @@
   <!-- TECH STACK & TOOLS -->
   <h2>TECH & CREATIVE STACK</h2>
 
+  <p><b>Filmmaking, Directing & Post-Production</b></p>
   <p>
-    <img src="https://img.shields.io/badge/Figma-000000?style=for-the-badge&logo=figma&logoColor=white" />
-    <img src="https://img.shields.io/badge/After_Effects-000000?style=for-the-badge&logo=adobeaftereffects&logoColor=white" />
+    <img src="https://img.shields.io/badge/Scripting-000000?style=for-the-badge&logo=pagekit&logoColor=white" />
+    <img src="https://img.shields.io/badge/Directing-000000?style=for-the-badge&logo=obsstudio&logoColor=white" />
     <img src="https://img.shields.io/badge/Premiere_Pro-000000?style=for-the-badge&logo=adobepremierepro&logoColor=white" />
-    <img src="https://img.shields.io/badge/Blender-000000?style=for-the-badge&logo=blender&logoColor=white" />
+    <img src="https://img.shields.io/badge/After_Effects-000000?style=for-the-badge&logo=adobeaftereffects&logoColor=white" />
+    <img src="https://img.shields.io/badge/DaVinci_Resolve-000000?style=for-the-badge&logo=davinciresolve&logoColor=white" />
+  </p>
+
+  <p><b>Marketing, Emailing & Web Strategy</b></p>
+  <p>
+    <img src="https://img.shields.io/badge/WordPress-000000?style=for-the-badge&logo=wordpress&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email_Marketing-000000?style=for-the-badge&logo=mailchimp&logoColor=white" />
+    <img src="https://img.shields.io/badge/Google_Analytics-000000?style=for-the-badge&logo=googleanalytics&logoColor=white" />
+    <img src="https://img.shields.io/badge/SEO_%26_Campaigns-000000?style=for-the-badge&logo=googleads&logoColor=white" />
+  </p>
+
+  <p><b>Programming & Web Engineering</b></p>
+  <p>
+    <img src="https://img.shields.io/badge/HTML5_%26_CSS3-000000?style=for-the-badge&logo=html5&logoColor=white" />
+    <img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=white" />
+    <img src="https://img.shields.io/badge/PHP-000000?style=for-the-badge&logo=php&logoColor=white" />
     <img src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=white" />
     <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
   </p>
