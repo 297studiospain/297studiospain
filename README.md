@@ -16,7 +16,7 @@
     <a href="https://297.studio" target="_blank">
       <img src="https://img.shields.io/badge/WEBSITE-297.STUDIO-111111?style=for-the-badge&logo=firefox&logoColor=white" alt="Website" />
     </a>
-    <a href="https://linkedin.com/company/297studio" target="_blank">
+    <a href="https://linkedin.com/company/297-studio" target="_blank">
       <img src="https://img.shields.io/badge/LINKEDIN-297STUDIO-111111?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
     <a href="https://instagram.com/297.studio" target="_blank">
