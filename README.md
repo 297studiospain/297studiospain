@@ -13,8 +13,8 @@
 
   <!-- BADGES / BOTONES SOBRIOS -->
   <p>
-    <a href="https://297studio.com" target="_blank">
-      <img src="https://img.shields.io/badge/WEBSITE-297STUDIO.COM-111111?style=for-the-badge&logo=firefox&logoColor=white" alt="Website" />
+    <a href="https://297.studio" target="_blank">
+      <img src="https://img.shields.io/badge/WEBSITE-297.studio-111111?style=for-the-badge&logo=firefox&logoColor=white" alt="Website" />
     </a>
     <a href="mailto:297studio@the297.com">
       <img src="https://img.shields.io/badge/EMAIL-CONTACTO-111111?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
