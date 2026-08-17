@@ -7,9 +7,6 @@
     <text x="50%" y="42%" dominant-baseline="middle" text-anchor="middle" font-family="'Inter', 'Segoe UI', sans-serif" font-weight="900" font-size="38" fill="#FFFFFF" letter-spacing="4">
       297STUDIO
     </text>
-    <text x="50%" y="70%" dominant-baseline="middle" text-anchor="middle" font-family="'Inter', 'Segoe UI', sans-serif" font-size="12" fill="#888888" letter-spacing="2">
-      MARKETING PRODUCTION OPERATOR
-    </text>
   </svg>
 
   <br /><br />
