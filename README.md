@@ -1,10 +1,10 @@
 <div align="center">
 
-  <!-- BANNER CON ESTILO DARK MINIMALISTA -->
-  <svg viewBox="0 0 800 160" width="100%" height="160" xmlns="http://www.w3.org/2000/svg">
+  <!-- BANNER ANCHO COMPLETO (#0A0A0A) -->
+  <svg viewBox="0 0 800 120" width="100%" height="100%" xmlns="http://www.w3.org/2000/svg">
     <rect width="100%" height="100%" fill="#0A0A0A" rx="8" stroke="#1F1F1F" stroke-width="1.5" />
-    <circle cx="400" cy="80" r="120" fill="#FFFFFF" opacity="0.03" />
-    <text x="50%" y="42%" dominant-baseline="middle" text-anchor="middle" font-family="'Inter', 'Segoe UI', sans-serif" font-weight="900" font-size="38" fill="#FFFFFF" letter-spacing="4">
+    <circle cx="400" cy="60" r="120" fill="#FFFFFF" opacity="0.03" />
+    <text x="50%" y="54%" dominant-baseline="middle" text-anchor="middle" font-family="'Inter', 'Segoe UI', sans-serif" font-weight="900" font-size="44" fill="#FFFFFF" letter-spacing="8">
       297STUDIO
     </text>
   </svg>
@@ -13,8 +13,8 @@
 
   <!-- BADGES / BOTONES SOBRIOS -->
   <p>
-    <a href="https://297.studio" target="_blank">
-      <img src="https://img.shields.io/badge/WEBSITE-297.studio-111111?style=for-the-badge&logo=firefox&logoColor=white" alt="Website" />
+    <a href="https://297studio.com" target="_blank">
+      <img src="https://img.shields.io/badge/WEBSITE-297STUDIO.COM-111111?style=for-the-badge&logo=firefox&logoColor=white" alt="Website" />
     </a>
     <a href="mailto:297studio@the297.com">
       <img src="https://img.shields.io/badge/EMAIL-CONTACTO-111111?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
