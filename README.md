@@ -8,7 +8,7 @@
     </text>
   </svg>
 
-  <br />
+  <br/>
 
   <!-- BOTONES / BADGES LIGHT -->
   <p>
