@@ -8,7 +8,7 @@
     </text>
   </svg>
 
-  <br/>
+  <br />
 
   <!-- BOTONES / BADGES LIGHT -->
   <p>
@@ -27,7 +27,7 @@
 
   <!-- ABOUT US -->
   <h2>About Us</h2>
-  <p width="100%">
+  <p width="80%">
     We are a Marketing Production Operator (MPO) based in Madrid. We seamlessly integrate high-end audiovisual production with software development, interactive design, and comprehensive digital marketing strategies.
   </p>
 
@@ -57,25 +57,33 @@
 
   <br /><br />
 
-  <!-- TECH & CREATIVE STACK (TAGS LIGHT CON ICONOS OSCUROS) -->
+  <!-- TECH & CREATIVE STACK (AMPLIADO SIN MORE) -->
   <h2>Tech & Creative Stack</h2>
   <p>
     <img src="https://img.shields.io/badge/AFTER_EFFECTS-F5F5F5?style=for-the-badge&logo=adobeaftereffects&logoColor=0A0A0A&labelColor=F5F5F5&color=F5F5F5" />
     <img src="https://img.shields.io/badge/PREMIERE_PRO-F5F5F5?style=for-the-badge&logo=adobepremierepro&logoColor=0A0A0A&labelColor=F5F5F5&color=F5F5F5" />
     <img src="https://img.shields.io/badge/DAVINCI_RESOLVE-F5F5F5?style=for-the-badge&logo=davinciresolve&logoColor=0A0A0A&labelColor=F5F5F5&color=F5F5F5" />
     <img src="https://img.shields.io/badge/FINAL_CUT_PRO-F5F5F5?style=for-the-badge&logo=apple&logoColor=0A0A0A&labelColor=F5F5F5&color=F5F5F5" />
+    <img src="https://img.shields.io/badge/PHOTOSHOP-F5F5F5?style=for-the-badge&logo=adobephotoshop&logoColor=0A0A0A&labelColor=F5F5F5&color=F5F5F5" />
+    <img src="https://img.shields.io/badge/ILLUSTRATOR-F5F5F5?style=for-the-badge&logo=adobeillustrator&logoColor=0A0A0A&labelColor=F5F5F5&color=F5F5F5" />
+  </p>
+  <p>
     <img src="https://img.shields.io/badge/GOOGLE_ADS-F5F5F5?style=for-the-badge&logo=googleads&logoColor=0A0A0A&labelColor=F5F5F5&color=F5F5F5" />
     <img src="https://img.shields.io/badge/LINKEDIN_ADS-F5F5F5?style=for-the-badge&logo=linkedin&logoColor=0A0A0A&labelColor=F5F5F5&color=F5F5F5" />
+    <img src="https://img.shields.io/badge/META_ADS-F5F5F5?style=for-the-badge&logo=meta&logoColor=0A0A0A&labelColor=F5F5F5&color=F5F5F5" />
+    <img src="https://img.shields.io/badge/TIKTOK_ADS-F5F5F5?style=for-the-badge&logo=tiktok&logoColor=0A0A0A&labelColor=F5F5F5&color=F5F5F5" />
     <img src="https://img.shields.io/badge/MAILCHIMP-F5F5F5?style=for-the-badge&logo=mailchimp&logoColor=0A0A0A&labelColor=F5F5F5&color=F5F5F5" />
+    <img src="https://img.shields.io/badge/KLAVIYO-F5F5F5?style=for-the-badge&logo=klaviyo&logoColor=0A0A0A&labelColor=F5F5F5&color=F5F5F5" />
+    <img src="https://img.shields.io/badge/HUBSPOT-F5F5F5?style=for-the-badge&logo=hubspot&logoColor=0A0A0A&labelColor=F5F5F5&color=F5F5F5" />
   </p>
   <p>
     <img src="https://img.shields.io/badge/WORDPRESS-F5F5F5?style=for-the-badge&logo=wordpress&logoColor=0A0A0A&labelColor=F5F5F5&color=F5F5F5" />
-    <img src="https://img.shields.io/badge/FIGMA-F5F5F5?style=for-the-badge&logo=figma&logoColor=0A0A0A&labelColor=F5F5F5&color=F5F5F5" />
     <img src="https://img.shields.io/badge/WEBFLOW-F5F5F5?style=for-the-badge&logo=webflow&logoColor=0A0A0A&labelColor=F5F5F5&color=F5F5F5" />
+    <img src="https://img.shields.io/badge/FIGMA-F5F5F5?style=for-the-badge&logo=figma&logoColor=0A0A0A&labelColor=F5F5F5&color=F5F5F5" />
+    <img src="https://img.shields.io/badge/SHOPIFY-F5F5F5?style=for-the-badge&logo=shopify&logoColor=0A0A0A&labelColor=F5F5F5&color=F5F5F5" />
     <img src="https://img.shields.io/badge/GOOGLE_ANALYTICS-F5F5F5?style=for-the-badge&logo=googleanalytics&logoColor=0A0A0A&labelColor=F5F5F5&color=F5F5F5" />
     <img src="https://img.shields.io/badge/SEMRUSH-F5F5F5?style=for-the-badge&logo=semrush&logoColor=0A0A0A&labelColor=F5F5F5&color=F5F5F5" />
-    <img src="https://img.shields.io/badge/META_ADS-F5F5F5?style=for-the-badge&logo=meta&logoColor=0A0A0A&labelColor=F5F5F5&color=F5F5F5" />
-    <img src="https://img.shields.io/badge/MORE-F5F5F5?style=for-the-badge&labelColor=F5F5F5&color=F5F5F5" />
+    <img src="https://img.shields.io/badge/HOTJAR-F5F5F5?style=for-the-badge&logo=hotjar&logoColor=0A0A0A&labelColor=F5F5F5&color=F5F5F5" />
   </p>
 
 </div>
