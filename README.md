@@ -12,8 +12,8 @@
 
   <!-- BOTONES / BADGES LIGHT -->
   <p>
-    <a href="https://297studio.com" target="_blank">
-      <img src="https://img.shields.io/badge/WEBSITE-297STUDIO.COM-F5F5F5?style=for-the-badge&logo=firefox&logoColor=0A0A0A&labelColor=F5F5F5&color=F5F5F5" alt="Website" />
+    <a href="https://297.studio" target="_blank">
+      <img src="https://img.shields.io/badge/WEBSITE-297.STUDIO-F5F5F5?style=for-the-badge&logo=firefox&logoColor=0A0A0A&labelColor=F5F5F5&color=F5F5F5" alt="Website" />
     </a>
     <a href="https://linkedin.com/company/297studio" target="_blank">
       <img src="https://img.shields.io/badge/LINKEDIN-297STUDIO-F5F5F5?style=for-the-badge&logo=linkedin&logoColor=0A0A0A&labelColor=F5F5F5&color=F5F5F5" alt="LinkedIn" />
