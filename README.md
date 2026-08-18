@@ -27,7 +27,7 @@
 
   <!-- ABOUT US -->
   <h2>About Us</h2>
-  <p width="80%">
+  <p width="100%">
     We are a Marketing Production Operator (MPO) based in Madrid. We seamlessly integrate high-end audiovisual production with software development, interactive design, and comprehensive digital marketing strategies.
   </p>
 
