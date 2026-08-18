@@ -1,17 +1,18 @@
-<div align="center">
 
-  <!-- BANNER ANCHO COMPLETO (#0A0A0A) -->
-  <svg viewBox="0 0 800 120" width="100%" height="100%" xmlns="http://www.w3.org/2000/svg">
-    <rect width="100%" height="100%" fill="#0A0A0A" rx="8" stroke="#1F1F1F" stroke-width="1.5" />
-    <circle cx="400" cy="60" r="120" fill="#FFFFFF" opacity="0.03" />
-    <text x="50%" y="54%" dominant-baseline="middle" text-anchor="middle" font-family="'Inter', 'Segoe UI', sans-serif" font-weight="900" font-size="44" fill="#FFFFFF" letter-spacing="8">
-      297STUDIO
+
+  <div align="center">
+
+  <!-- BANNER "297.STUDIO" A ANCHO COMPLETO -->
+  <svg viewBox="0 0 1000 160" width="100%" height="100%" xmlns="http://www.w3.org/2000/svg">
+    <rect width="100%" height="100%" fill="#0A0A0A" />
+    <text x="50%" y="55%" dominant-baseline="middle" text-anchor="middle" font-family="'Impact', 'Arial Black', sans-serif" font-size="110" fill="#FFFFFF" letter-spacing="2" style="font-size:4rem;">
+      297.STUDIO
     </text>
   </svg>
 
-  <br /><br />
+  <br />
 
-  <!-- BADGES / BOTONES SOBRIOS -->
+   <!-- BADGES / BOTONES SOBRIOS -->
   <p>
     <a href="https://297.studio" target="_blank">
       <img src="https://img.shields.io/badge/WEBSITE-297.STUDIO-111111?style=for-the-badge&logo=firefox&logoColor=white" alt="Website" />
@@ -24,83 +25,59 @@
     </a>
   </p>
 
-  <br />
+  <hr width="100%" size="1" color="#333333" style="border: 0; border-top: 1px solid #333333; margin: 30px 0;" />
 
   <!-- ABOUT US -->
-  <h2>ABOUT 297STUDIO</h2>
-  <p>
-    We are a <b>Marketing Production Operator (MPO)</b> based in Madrid. We seamlessly integrate high-end audiovisual production with software development, interactive design, and comprehensive digital marketing strategies.
+  <h2>About Us</h2>
+  <p width="80%">
+    We are a Marketing Production Operator (MPO) based in Madrid. We seamlessly integrate high-end audiovisual production with software development, interactive design, and comprehensive digital marketing strategies.
   </p>
-
-  <br />
-
-  <!-- SERVICES -->
-  <h2>SERVICES</h2>
-
-  <table border="0" width="100%" style="border-collapse: collapse; background-color: #0D0D0D;">
-    <tr>
-      <td align="center" width="50%" style="padding: 10px;">
-        <svg width="100%" height="80" viewBox="0 0 350 80" xmlns="http://www.w3.org/2000/svg">
-          <rect width="100%" height="100%" rx="6" fill="#141414" stroke="#333333" stroke-width="1" />
-          <text x="50%" y="35%" dominant-baseline="middle" text-anchor="middle" fill="#FFFFFF" font-family="'Segoe UI', sans-serif" font-size="14" font-weight="bold">🎬 Audiovisual Production</text>
-          <text x="50%" y="65%" dominant-baseline="middle" text-anchor="middle" fill="#888888" font-family="'Segoe UI', sans-serif" font-size="10">Scripting, directing, recording, realization & editing</text>
-        </svg>
-      </td>
-      <td align="center" width="50%" style="padding: 10px;">
-        <svg width="100%" height="80" viewBox="0 0 350 80" xmlns="http://www.w3.org/2000/svg">
-          <rect width="100%" height="100%" rx="6" fill="#141414" stroke="#333333" stroke-width="1" />
-          <text x="50%" y="35%" dominant-baseline="middle" text-anchor="middle" fill="#FFFFFF" font-family="'Segoe UI', sans-serif" font-size="14" font-weight="bold">📈 Digital Marketing & Emailing</text>
-          <text x="50%" y="65%" dominant-baseline="middle" text-anchor="middle" fill="#888888" font-family="'Segoe UI', sans-serif" font-size="10">Campaigns, automation & MPO strategies</text>
-        </svg>
-      </td>
-    </tr>
-    <tr>
-      <td align="center" width="50%" style="padding: 10px;">
-        <svg width="100%" height="80" viewBox="0 0 350 80" xmlns="http://www.w3.org/2000/svg">
-          <rect width="100%" height="100%" rx="6" fill="#141414" stroke="#333333" stroke-width="1" />
-          <text x="50%" y="35%" dominant-baseline="middle" text-anchor="middle" fill="#FFFFFF" font-family="'Segoe UI', sans-serif" font-size="14" font-weight="bold">🌐 Web Development & CMS</text>
-          <text x="50%" y="65%" dominant-baseline="middle" text-anchor="middle" fill="#888888" font-family="'Segoe UI', sans-serif" font-size="10">WordPress, custom development & optimization</text>
-        </svg>
-      </td>
-      <td align="center" width="50%" style="padding: 10px;">
-        <svg width="100%" height="80" viewBox="0 0 350 80" xmlns="http://www.w3.org/2000/svg">
-          <rect width="100%" height="100%" rx="6" fill="#141414" stroke="#333333" stroke-width="1" />
-          <text x="50%" y="35%" dominant-baseline="middle" text-anchor="middle" fill="#FFFFFF" font-family="'Segoe UI', sans-serif" font-size="14" font-weight="bold">💻 Software & Programming</text>
-          <text x="50%" y="65%" dominant-baseline="middle" text-anchor="middle" fill="#888888" font-family="'Segoe UI', sans-serif" font-size="10">Frontend, backend & code architecture</text>
-        </svg>
-      </td>
-    </tr>
-  </table>
 
   <br /><br />
 
-  <!-- TECH & CREATIVE STACK -->
-  <h2>TECH & CREATIVE STACK</h2>
-
-  <p><b>Filmmaking, Directing & Post-Production</b></p>
+  <!-- SERVICES (TAGS/PILLS) -->
+  <h2>Services</h2>
   <p>
-    <img src="https://img.shields.io/badge/Scripting-000000?style=for-the-badge&logo=pagekit&logoColor=white" />
-    <img src="https://img.shields.io/badge/Directing-000000?style=for-the-badge&logo=obsstudio&logoColor=white" />
-    <img src="https://img.shields.io/badge/Premiere_Pro-000000?style=for-the-badge&logo=adobepremierepro&logoColor=white" />
-    <img src="https://img.shields.io/badge/After_Effects-000000?style=for-the-badge&logo=adobeaftereffects&logoColor=white" />
-    <img src="https://img.shields.io/badge/DaVinci_Resolve-000000?style=for-the-badge&logo=davinciresolve&logoColor=white" />
+    <img src="https://img.shields.io/badge/SCRIPTING-111111?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/DIRECTING-111111?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/RECORDING-111111?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/REALIZATION_%26_EDITING-111111?style=for-the-badge" />
+  </p>
+  <p>
+    <img src="https://img.shields.io/badge/CAMPAIGNS-111111?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/AUTOMATION-111111?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/MPO_STRATEGIES-111111?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/WORDPRESS-111111?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/CUSTOM_DEVELOPMENT-111111?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/OPTIMIZATION-111111?style=for-the-badge" />
+  </p>
+  <p>
+    <img src="https://img.shields.io/badge/FRONTEND-111111?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/BACKEND-111111?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/CODE_ARCHITECTURE-111111?style=for-the-badge" />
   </p>
 
-  <p><b>Marketing, Emailing & Web Strategy</b></p>
-  <p>
-    <img src="https://img.shields.io/badge/WordPress-000000?style=for-the-badge&logo=wordpress&logoColor=white" />
-    <img src="https://img.shields.io/badge/Email_Marketing-000000?style=for-the-badge&logo=mailchimp&logoColor=white" />
-    <img src="https://img.shields.io/badge/Google_Analytics-000000?style=for-the-badge&logo=googleanalytics&logoColor=white" />
-    <img src="https://img.shields.io/badge/SEO_%26_Campaigns-000000?style=for-the-badge&logo=googleads&logoColor=white" />
-  </p>
+  <br /><br />
 
-  <p><b>Programming & Web Engineering</b></p>
+  <!-- TECH & CREATIVE STACK (TAGS/PILLS) -->
+  <h2>Tech & Creative Stack</h2>
   <p>
-    <img src="https://img.shields.io/badge/HTML5_%26_CSS3-000000?style=for-the-badge&logo=html5&logoColor=white" />
-    <img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=white" />
-    <img src="https://img.shields.io/badge/PHP-000000?style=for-the-badge&logo=php&logoColor=white" />
-    <img src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=white" />
-    <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
+    <img src="https://img.shields.io/badge/AFTER_EFFECTS-111111?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/PREMIERE_PRO-111111?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/DAVINCI_RESOLVE-111111?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/FINAL_CUT_PRO-111111?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/GOOGLE_ADS-111111?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/LINKEDIN_ADS-111111?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/MAILCHIMP-111111?style=for-the-badge" />
+  </p>
+  <p>
+    <img src="https://img.shields.io/badge/WORDPRESS-111111?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/FIGMA-111111?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/WEBFLOW-111111?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/GOOGLE_ANALYTICS-111111?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/SEMRUSH-111111?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/META_ADS-111111?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/MORE-111111?style=for-the-badge" />
   </p>
 
 </div>
