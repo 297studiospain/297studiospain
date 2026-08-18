@@ -3,7 +3,7 @@
   <div align="center">
 
   <!-- BANNER "297.STUDIO" A ANCHO COMPLETO -->
-  <svg viewBox="0 0 1000 160" width="100%" height="100%" xmlns="http://www.w3.org/2000/svg">
+  <svg viewBox="0 0 1000 160" width="100%" height="100%" xmlns="http://www.w3.org/2000/svg" style="margin:30px">
     <rect width="100%" height="100%" fill="#0A0A0A" />
     <text x="50%" y="55%" dominant-baseline="middle" text-anchor="middle" font-family="'Impact', 'Arial Black', sans-serif" font-size="110" fill="#FFFFFF" letter-spacing="2" style="font-size:4rem;">
       297.STUDIO
